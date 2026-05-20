@@ -2,11 +2,11 @@
 
 #### About Me
 
-Welcome to my GitHub profile! I am a certified AWS Solutions Architect Associate and also certified in Python. I am a Python developer with a passion for data analysis. My skills include:
+Welcome to my GitHub profile! I am a certified AWS Solutions Architect Associate and also certified in Python. I am a Python developer with a passion for data. My skills include:
 
 AWS: I have experience working with various AWS services like EC2, S3, RDS, and API Gateway. I am proficient in deploying, managing, and scaling applications on AWS.
 
-Python: I have a strong foundation in Python and use it extensively for data analysis, automation, and web development. I am familiar with popular Python libraries like pandas, matplotlib, and plotly.
+Python: I have a strong foundation in Python and use it extensively for data analysis and automation. I am familiar with popular Python libraries like pandas, matplotlib, and plotly.
 
 Snowflake & SQL: I have experience working with Snowflake, a cloud-based data warehousing platform, and using SQL to query data from various databases like PostgreSQL, MySQL, DynamoDB, S3.
 
